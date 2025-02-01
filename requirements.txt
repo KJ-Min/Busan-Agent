@@ -1,0 +1,8 @@
+python-dotenv==1.0.1
+openai==1.61.0
+faiss-cpu==1.8.0
+langchain
+langchain-community
+langchain-openai
+fastapi==0.110.0
+uvicorn==0.27.1
